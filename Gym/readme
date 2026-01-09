@@ -1,0 +1,4 @@
+./train.py: train the game to learn the policy
+./test.py: test the final policy
+./q_table.pkl: store the final policy
+./test_gym.py: a failure case to implement the game by reinforence learning
